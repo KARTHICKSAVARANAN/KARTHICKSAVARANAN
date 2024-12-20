@@ -1,14 +1,9 @@
 # Hi there! 👋 I'm Karthick
 
-## 🚀 About Me
 - 🎓 Pursuing **Bachelor in Information Technology** at **St. Joseph's College of Engineering, Chennai** (2022–2026).
-- 🔍 Passionate about **Machine Learning**, **Flutter Development**, and **Data Structures**.
+- 🔍 Passionate about **Machine Learning**, **Data Structures**.
 - 🏆 Competitive Programmer with **400+ solved problems on LeetCode** and ranked in the top **21.92% globally**.
-- 🧑‍💻 Proficient in **Java**, **Python**, **C**, and **SQL**.
-- 👷‍♂️ Built projects like:
-  - **Smart Food Recommendation System** (using Flutter & Deep Learning)
-  - **Real-Time Human Detection System**
-  - **Minimum Path Using Dijkstra**
+- 🧑‍💻  **Java**, **Python**, **C**, and **SQL**.
 
 ---
 
@@ -16,7 +11,6 @@
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=flat&logo=git&logoColor=white)
 
@@ -40,6 +34,3 @@
 ![Karthick's GitHub stats](https://github-readme-stats.vercel.app/api?username=KARTHICKSAVARANAN&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KARTHICKSAVARANAN&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
----
-
-🌟 _"The best way to predict the future is to create it."_ 🌟
