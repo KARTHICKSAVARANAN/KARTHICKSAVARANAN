@@ -1,8 +1,8 @@
 # Hi there! 👋 I'm Karthick
 
 - 🎓 Pursuing **Bachelor in Information Technology** at **St. Joseph's College of Engineering, Chennai** (2022–2026).
-- 🔍 Passionate about **Machine Learning**, **Data Structures**.
-- 🏆 Competitive Programmer with **400+ solved problems on LeetCode** and ranked in the top **21.92% globally**.
+- 🔍 Passionate about **Machine Learning**, **Deep Learning**, **Data Structures**.
+- 🏆 Competitive Programmer with **400+ solved problems on LeetCode** and ranked in the top **10.2% globally**.
 - 🧑‍💻  **Java**, **Python**, **C**, and **SQL**.
 
 ---
