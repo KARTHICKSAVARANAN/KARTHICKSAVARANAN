@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Karthick
+# Hi here! 👋 I'm Karthick
 
 - 🎓 Pursuing **Bachelor in Information Technology** at **St. Joseph's College of Engineering, Chennai** (2022–2026).
 - 🔍 Passionate about **Machine Learning**, **Deep Learning**, **Data Structures**.
